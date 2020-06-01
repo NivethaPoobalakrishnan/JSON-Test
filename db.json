@@ -1,31 +1,23 @@
 {
-  "posts": [
+  "Movies": [
     {
+      "heroine" : "Jyothika",
       "id": 1,
-      "title": "Post 1"
+      "moviename": "Ponmagal vanthal",
+      "moviedesc":"Ponmagal Vandhal is an unapologetic message movie in the guise of a courtroom drama and banks solely on the crusader zeal of its lead star to help it get a favourable verdict from the audiences",
     },
     {
+      "heroine" : "Anushka",
       "id": 2,
-      "title": "Post 2"
+      "moviename": "Singam",
+      "moviedesc":"Singam is surya film",
     },
     {
+     "heroine" : "Anushka",
       "id": 3,
-      "title": "Post 3"
+      "moviename": "Chandhramuki",
+      "moviedesc":"Chandhramuki is superstarmovie",
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
+ 
