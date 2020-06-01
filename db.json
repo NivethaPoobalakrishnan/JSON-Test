@@ -1,4 +1,4 @@
-
+{
   "Movies": [
     {
       "heroine" : "Jyothika",
@@ -19,5 +19,5 @@
       "moviedesc":"Chandhramuki is superstarmovie"
     }
   ]
-
+}
  
