@@ -1,20 +1,6 @@
-Movies:[
 {
-  "moviename": "Ponmagal Vandhal",
+  "userId": 1,
   "id": 1,
-  "heroine: "Jyothika",
-  "moviedesc": "Ponmagal Vandhal is a 2020 Indian Tamil-language legal drama film written and directed by J. J. Fredrick in his debut, and produced by Jyothika and Suriya. The film stars Jyothika leading an ensemble cast including K. Bhagyaraj, R. Parthiban, Thiagarajan, Pandiarajan and Pratap Pothen"
-},
-{
-"moviename": "Singam",
-"id":2,
-"heroine: "Jyothika",
-"moviedesc": "Singam is suryas movie"
-},
-{
- "moviename":"Chandramuki",
-"id":3,
-"heroine: "Jyothika",
-"moviedesc": "Superstars movie"
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
 }
-]
